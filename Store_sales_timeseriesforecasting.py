@@ -11,7 +11,6 @@
 
 
 # 0.IMPORTS AND PACKAGES
-
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -82,7 +81,6 @@ px.line(c, x='dayofweek', y='transactions', color='year', title='Yearly Transact
 
 # --> More sales in days 6 and 7 of week.
 # 1.2 Sales
-
 
 train.head(10)
 px.line(train.sort_values(["store_nbr", "date"]), x='date', y='sales', color='store_nbr',
