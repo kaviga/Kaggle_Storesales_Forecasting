@@ -2,11 +2,8 @@
 #Credits to:
 
 #https: // www.kaggle.com / code / ekrembayar / store - sales - ts - forecasting - a - comprehensive - guide / notebook
-
 #https: // www.kaggle.com / code / howoojang / first - kaggle - notebook - following - ts - tutorial
-
 #https: // www.kaggle.com / competitions / store - sales - time - series - forecasting / data?select = train.csv
-
 #https: // www.kaggle.com / code / kashishrastogi / store - sales - analysis - time - serie / notebook
 
 
