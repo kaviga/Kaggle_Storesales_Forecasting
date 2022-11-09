@@ -22,7 +22,7 @@ import gc
 import statsmodels.api as sm
 
 
-path = '/Users/gorkagamo/PycharmProjects/store_sale_time_series_forecasting/'
+path = '/Users/*********/PycharmProjects/store_sale_time_series_forecasting/'
 os.listdir(path)
 train = pd.read_csv(path + 'train.csv')
 test = pd.read_csv(path + 'test.csv')
